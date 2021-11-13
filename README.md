@@ -52,9 +52,11 @@ Github pages : https://swati0806.github.io/National-Park-Info-/#
 
  **Filter**
 - State
+ 
  **Search**
 - Name
 - Keyword
+ 
  **List Details**
 - Alerts
 - Articles
